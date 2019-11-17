@@ -8,3 +8,4 @@ Instructions:
 1. Clone Repo ~ `git clone https://github.com/melozap/Flask-Language-Detector-App.git`
 2. Install Requirements ~ `pip install -r requirements.txt`
 3. Serve Flask App on Development Server ~ `python app.py`
+
