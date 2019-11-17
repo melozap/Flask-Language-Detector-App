@@ -9,4 +9,4 @@ Instructions:
 2. Install Requirements ~ `pip install -r requirements.txt`
 3. Serve Flask App on Development Server ~ `python app.py`
 
-![alt text](https://github.com/melozap/Flask-Language-Detector-App/example_img.PNG)
+![alt text](https://github.com/melozap/Flask-Language-Detector-App/master/example_img.PNG)
